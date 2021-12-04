@@ -46,3 +46,5 @@ Implementing Bubble Sort Algorithm:
 Requirements
 • The most important thing to do in every sorting algorithm is to swap elements. To
 make swap two elements in HTML using JS we do the following:![WhatsApp Image 2021-12-04 at 9 49 25 AM](https://user-images.githubusercontent.com/54748726/144696691-b7cc1820-8bac-453a-9b12-48f238dff4ea.jpeg)
+
+-Now apply the simple bubble sort algorithm.
