@@ -21,7 +21,7 @@ using JavaScript.
 
 
 Requirements
-• This is a typical JavaScript Project , so I have used the code editor VScode.
+• This is a typical JavaScript Project , so the code editor VSCode has been used
  with necessary plugins.
  
  Task 1:
