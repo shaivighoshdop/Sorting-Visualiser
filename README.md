@@ -48,3 +48,20 @@ Requirements
 make swap two elements in HTML using JS we do the following:![WhatsApp Image 2021-12-04 at 9 49 25 AM](https://user-images.githubusercontent.com/54748726/144696691-b7cc1820-8bac-453a-9b12-48f238dff4ea.jpeg)
 
 - Now apply the simple bubble sort algorithm.
+- At the end of every iteration when the highest bar will be taken to the right corner then
+to show that this bar is placed at its perfect position we make the background color Green.
+- Now when we run this we will notice that there is no delay in swapping and the other
+iterations. So we have to add a delay before the swaps in order to watch how changes
+are happening. For delay we may use the following logic -
+![WhatsApp Image 2021-12-04 at 9 59 14 AM](https://user-images.githubusercontent.com/54748726/144696933-4e14b075-95a4-42cd-8bb3-3c86312d54c6.jpeg)
+- Then we wrap this whole thing in a function and pass this into the event listener of the bubble
+sort button.
+
+Task 5:
+We implement the remaining sorting Algorithms : Merge Sort, Quick Sort, Selection Sort and Insertion Sort
+
+Task 6:
+We change the number of bars and speed.
+
+Task 7:
+Host the project live using Netlify.
