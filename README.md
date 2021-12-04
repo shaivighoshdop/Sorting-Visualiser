@@ -65,4 +65,4 @@ We change the number of bars and speed.
 
 Task 7:
 Host the project live using Netlify.
-Website link: https://zen-agnesi-d83d68.netlify.app/
+[Website link:] (https://zen-agnesi-d83d68.netlify.app/)
