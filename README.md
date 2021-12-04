@@ -1,6 +1,6 @@
 # Sorting-Visualiser
 
-The objective of this project is to create a web application using HTML, CSS, Javascript to visualize how various sorting
+The objective of this project is to create a web application using HTML, CSS and rudimentary Javascript to visualize how various sorting
 algorithms work.
 
 Project Context :
